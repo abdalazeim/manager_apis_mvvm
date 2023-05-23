@@ -1,6 +1,6 @@
 
-# manager_apis_mvvm
-Flutter project.
+# # manager_apis_mvvm
+# #Flutter project.
 
 
 
@@ -20,9 +20,9 @@ Flutter project.
 
 
 # That's All:
- - This Script By:  **☠αвɒ єℓαzєєм☠**
- - Thanks For Usage :)
- - Have A Nice Day,GoodBye :)
+ # # - This Script By:  **☠αвɒ єℓαzєєм☠**
+# # - Thanks For Usage :)
+ # # - Have A Nice Day,GoodBye :)
 
->>>>>>> Stashed changes
+# # >>>>>>> Stashed changes
 
