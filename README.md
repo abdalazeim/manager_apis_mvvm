@@ -20,7 +20,7 @@
 
 
 ## That's All:
- ## - This Script By:  **☠αвɒ єℓαzєєм☠**
+ ## - This Script By:  **αвɒ єℓαzєєм**
 ## - Thanks For Usage :)
  ## - Have A Nice Day,GoodBye :)
 
